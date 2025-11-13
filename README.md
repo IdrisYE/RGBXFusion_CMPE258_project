@@ -1,3 +1,9 @@
+This is not my Original work
+Link to origanl github repository:[RGBXFusion](https://github.com/dsriaditya999/RGBXFusion)
+
+
+
+
 # RGB-X Object Detection via Scene-Specific Fusion Modules
 
 Multimodal deep sensor fusion has the potential to enable autonomous vehicles to visually understand their surrounding environments in all weather conditions. However, existing deep sensor fusion methods usually employ convoluted architectures with intermingled multimodal features, requiring large coregistered multimodal datasets for training. In this work, we present an efficient and modular RGB-X fusion network that can leverage and fuse pretrained single-modal models via scene-specific fusion modules, thereby enabling joint input-adaptive network architectures to be created using small, coregistered multimodal datasets. Our experiments demonstrate the superiority of our method compared to existing works on RGB-thermal and RGB-gated datasets, performing fusion using only a small amount of additional parameters.
