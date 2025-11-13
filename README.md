@@ -1,5 +1,6 @@
 This is not my Original work
-Link to origanl github repository:[RGBXFusion](https://github.com/dsriaditya999/RGBXFusion)
+
+Link to origanl github repository: [RGBXFusion](https://github.com/dsriaditya999/RGBXFusion)
 
 
 
